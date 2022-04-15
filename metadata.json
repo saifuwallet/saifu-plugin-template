@@ -1,0 +1,6 @@
+{
+  "id": "saifu-plugin-template",
+  "name": "Template",
+  "description": "Gets you started with building a new plugin",
+  "version": "1.0.0"
+}
